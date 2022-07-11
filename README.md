@@ -9,8 +9,6 @@ The purpose of this project is to show in maps and display information on a webs
 
 ## Results
 
-To see the described website page, click on the [link](https://abramscris.github.io/Mapping_Earthquakes/).
-
 
 Each earthquake is visually represented by a circle and color, where a higher magnitude will have a larger diameter and will be darker in color. In addition, each earthquake has a popup marker that, when clicked, shows the magnitude of the earthquake and the location of the earthquake. The map has three views:
 
